@@ -30,4 +30,4 @@ __*게임*__</br>
 1. 순서가 있는 리스트
 2. 순서가 있는 리스트
 
-[마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
+[마이노션](https://www.notion.so/840c5fa9de054f3fb2b2697f586345d2?pvs=4)
